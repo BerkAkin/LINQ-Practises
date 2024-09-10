@@ -25,3 +25,4 @@ C:\Users\berka\Desktop\LinqConsoleApp\obj\Debug\net8.0\refint\LinqConsoleApp.dll
 C:\Users\berka\Desktop\LinqConsoleApp\obj\Debug\net8.0\LinqConsoleApp.pdb
 C:\Users\berka\Desktop\LinqConsoleApp\obj\Debug\net8.0\LinqConsoleApp.genruntimeconfig.cache
 C:\Users\berka\Desktop\LinqConsoleApp\obj\Debug\net8.0\ref\LinqConsoleApp.dll
+C:\Users\berka\Desktop\LinqConsoleApp\obj\Debug\net8.0\LinqConsoleApp.sourcelink.json
